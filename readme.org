@@ -1,4 +1,3 @@
-#+TITLE: OpenSCAD 3D Container for USB TTL Serial Adaptor
 #+OPTIONS: ^:{}
 * 3D Container for USB TTL Serial Adaptor
 Parameterised 3D container for USB TTL Serial adaptor board. See [[file:usb_ttl.scad]]
