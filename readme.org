@@ -1,0 +1,25 @@
+#+TITLE: OpenSCAD 3D Container for USB TTL Serial Adaptor
+#+OPTIONS: ^:{}
+* 3D Container for USB TTL Serial Adaptor
+Parameterised 3D container for USB TTL Serial adaptor board. See [[file:usb_ttl.scad]]
+- OpenSCAD Version :: v2021.01
+- Printer :: AnyCubic Photon Mono
+- Resin :: eSun standard grey
+  
+#+CAPTION: OpenSCAD Rendered Container
+#+ATTR_HTML: :alt USB Serial TTL board :align  :title OpenSCAD Rendered Container :align center                                                                          
+#+ATTR_HTML: :width 50% :height 50%
+[[file:img/render_ab.png]]
+
+
+#+CAPTION: USB Serial TTL board
+#+ATTR_HTML: :alt USB Serial TTL board :title USB Serial TTL board :align center                                                                          
+#+ATTR_HTML: :width 35% :height 35% 
+[[file:img/usb_ttl_board.png]]
+
+#+CAPTION: Final Painted Container
+#+ATTR_HTML: :alt Final Painted Container :align  :title Final Painted Container :align center                                                                          
+#+ATTR_HTML: :width 50% :height 50%
+[[file:img/final.jpeg]]
+
+
